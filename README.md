@@ -1,5 +1,5 @@
 # ffmpeg-mediacodec-encoder
-[experimental] FFMPEG hardware encoder for Android
+[WIP] FFMPEG hardware encoder for Android
 
 ## Why ?
 - hardware support on Android is only available for decoder
