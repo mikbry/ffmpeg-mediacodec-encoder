@@ -11,7 +11,7 @@
 - https://github.com/tanersener/mobile-ffmpeg/issues/225
 
 ## TODO
-- [ ] Create an android project
+- [x] Create an android project
 - [ ] add FFMPEG lib
 - [ ] create a stub C encoder
 - [ ] implement Mediacodec encoder
