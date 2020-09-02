@@ -21,6 +21,11 @@
 
 ### Build FFmpeg for Android
 
+https://github.com/madhavanmalolan/ffmpegandroidlibrary/wiki/Building-from-source
+
+Create a script to:
+- [x] Clone FFmpeg from git
+
 ### Create a minimal FFMPEG H264 encoder
 Based on [Videotoolbox encoder](https://github.com/FFmpeg/FFmpeg/blob/a72d5290c5b70780fe7132c68498c0aa1456908f/libavcodec/videotoolboxenc.c)
 
