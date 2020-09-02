@@ -23,9 +23,22 @@
 
 https://github.com/madhavanmalolan/ffmpegandroidlibrary/wiki/Building-from-source
 
+https://github.com/Javernaut/ffmpeg-android-maker/blob/master/ffmpeg-android-maker.sh
+
+https://yesimroy.gitbooks.io/android-note/content/compile_ffmpeg_for_android.html
+
+https://syllogismobile.wordpress.com/2018/08/19/building-ffmpeg-4-0-for-android-with-clang/
+
+https://github.com/tanersener/mobile-ffmpeg/blob/master/android.sh
+
+https://github.com/binglingziyu/ffmpeg-android-build
+
 Create a script to:
 - [x] Clone FFmpeg from git
-
+- [ ] Configure NDK
+- [ ] Setup toolchain(s)
+- [ ] Configure FFmpeg
+- [ ] Build
 ### Create a minimal FFMPEG H264 encoder
 Based on [Videotoolbox encoder](https://github.com/FFmpeg/FFmpeg/blob/a72d5290c5b70780fe7132c68498c0aa1456908f/libavcodec/videotoolboxenc.c)
 
